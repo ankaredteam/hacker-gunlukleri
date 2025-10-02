@@ -1,9 +1,6 @@
 Web Uygulama Güvenliği için faydalı payload'ların ve atlatma (bypass) tekniklerinin bir listesi.
-Kendi payload'larınız ve tekniklerinizle katkıda bulunmaktan çekinmeyin!
 
 
-
-Alternatif bir gösterim sürümü PayloadsAllTheThingsWeb adresinde mevcuttur.
 
 <p align="center">
   <img src="https://www.turkhackteam.org/data/assets/logo_default/logo.png" alt="banner">
